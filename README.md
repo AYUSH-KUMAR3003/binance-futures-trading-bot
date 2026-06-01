@@ -14,8 +14,8 @@ pip install -r requirements.txt
 
 Create .env
 
-API_KEY=x4aFMPW50if8H47FHBeVvdpMIdziFJvrTQxkaW76h0FcEMS1wp9etYMOicoJR0Ky
-API_SECRET=5gZQiUHQxKo17wD7eJdIBZ13M6K05HgrShWvJXOgGbQuYG2F3XtJv4yz2OnsFyYY
+API_KEY=xxxxxxxxxxxxxxxx
+API_SECRET=xxxxxxxxxxxxxxxx
 
 ## Run
 
